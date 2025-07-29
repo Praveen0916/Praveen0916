@@ -49,10 +49,8 @@ Hey there! I'm **Praveen H N**, a passionate and curious BCA student. I enjoy bu
 
 ## 🚀 Projects:
 
-- 💼 **Portfolio Website** – Showcasing my resume, projects & skills  
-- 📷 **ShareWeb** – Mini Instagram-style web app  
-- 🚆 **Train Simulator UI** – UI prototype with animation design  
-
+- 💼 **Portfolio Website** – Showcasing my resume, projects & skills
+- 👻 **Ghost AI** - Voice assistant System, Some system operations 
 ---
 
 ## 📊 GitHub Stats:
